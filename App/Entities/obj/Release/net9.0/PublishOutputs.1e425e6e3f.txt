@@ -1,0 +1,3 @@
+C:\Users\esteb\Desktop\New folder\Entities.dll
+C:\Users\esteb\Desktop\New folder\Entities.deps.json
+C:\Users\esteb\Desktop\New folder\Entities.pdb

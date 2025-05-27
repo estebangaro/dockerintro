@@ -1,0 +1,3 @@
+C:\Users\esteb\Documents\Ejercicios .NET\Docker\App\Entities\bin\Release\net9.0\publish\Entities.dll
+C:\Users\esteb\Documents\Ejercicios .NET\Docker\App\Entities\bin\Release\net9.0\publish\Entities.deps.json
+C:\Users\esteb\Documents\Ejercicios .NET\Docker\App\Entities\bin\Release\net9.0\publish\Entities.pdb

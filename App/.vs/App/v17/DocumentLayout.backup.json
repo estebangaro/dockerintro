@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\esteb\\Documents\\Ejercicios .NET\\Docker\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF4BC3A-9A91-1E10-C436-4A948A01D722}|DotNet.Docker\\DotNet.Docker.csproj|c:\\users\\esteb\\documents\\ejercicios .net\\docker\\app\\dotnet.docker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF4BC3A-9A91-1E10-C436-4A948A01D722}|DotNet.Docker\\DotNet.Docker.csproj|solutionrelative:dotnet.docker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4AB233B-2623-49C3-AF08-850834591812}|Models\\Models.csproj|c:\\users\\esteb\\documents\\ejercicios .net\\docker\\app\\models\\data\\pruebascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4AB233B-2623-49C3-AF08-850834591812}|Models\\Models.csproj|solutionrelative:models\\data\\pruebascontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:16:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:14:0:{2456bd12-ecf7-4988-a4a6-67d49173f565}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PruebasContext.cs",
+              "DocumentMoniker": "C:\\Users\\esteb\\Documents\\Ejercicios .NET\\Docker\\App\\Models\\Data\\PruebasContext.cs",
+              "RelativeDocumentMoniker": "Models\\Data\\PruebasContext.cs",
+              "ToolTip": "C:\\Users\\esteb\\Documents\\Ejercicios .NET\\Docker\\App\\Models\\Data\\PruebasContext.cs",
+              "RelativeToolTip": "Models\\Data\\PruebasContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:52:18.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\esteb\\Documents\\Ejercicios .NET\\Docker\\App\\DotNet.Docker\\Program.cs",
+              "RelativeDocumentMoniker": "DotNet.Docker\\Program.cs",
+              "ToolTip": "C:\\Users\\esteb\\Documents\\Ejercicios .NET\\Docker\\App\\DotNet.Docker\\Program.cs",
+              "RelativeToolTip": "DotNet.Docker\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T06:24:33.515Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

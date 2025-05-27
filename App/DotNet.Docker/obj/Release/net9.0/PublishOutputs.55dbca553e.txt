@@ -1,0 +1,5 @@
+C:\Users\esteb\Documents\Ejercicios .NET\Docker\App\pubdirout\DotNet.Docker.exe
+C:\Users\esteb\Documents\Ejercicios .NET\Docker\App\pubdirout\DotNet.Docker.dll
+C:\Users\esteb\Documents\Ejercicios .NET\Docker\App\pubdirout\DotNet.Docker.deps.json
+C:\Users\esteb\Documents\Ejercicios .NET\Docker\App\pubdirout\DotNet.Docker.runtimeconfig.json
+C:\Users\esteb\Documents\Ejercicios .NET\Docker\App\pubdirout\DotNet.Docker.pdb

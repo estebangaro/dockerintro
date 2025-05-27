@@ -1,0 +1,26 @@
+networks:
+ devnetwork:
+services:
+  counter-consoleapp-sqlserverconnection:
+    build: .
+    depends_on: 
+      - db
+    networks: 
+      - devnetwork
+    restart: always
+  db:
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: M45T3R3D104#
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    restart: always
+    ports:
+      - "1433:1433"
+    networks:
+      - devnetwork
+    healthcheck:
+      test: ["CMD-SHELL", "/opt/mssql-tools/bin/sqlcmd -S localhost -U sa -P M45T3R3D104# -Q 'SELECT 1' || exit 1"]
+      interval: 10s
+      retries: 10
+      start_period: 10s
+      timeout: 3s
